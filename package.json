@@ -16,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/Epsilon-Harshavardhana/autit-test/issues"
   },
-  "homepage": "https://github.com/Epsilon-Harshavardhana/autit-test#readme"
+  "homepage": "https://github.com/Epsilon-Harshavardhana/autit-test#readme",
+  "devDependencies": {
+    "@auto-it/upload-assets": "^11.0.4"
+  },
+  "private": false,
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://npm.pkg.github.com"
+  }
 }
