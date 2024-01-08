@@ -24,5 +24,9 @@
   "publishConfig": {
     "access": "public",
     "registry": "https://npm.pkg.github.com"
+  },
+  "dependencies": {
+    "@auto-it/released": "^11.0.4",
+    "auto": "^11.0.4"
   }
 }
